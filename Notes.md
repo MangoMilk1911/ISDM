@@ -1,7 +1,7 @@
 # Week Tasks
 ### Week 1
 1. 3 Empathy Maps
-2. POV Statements
+2. 3 POV/Problem Statements
 
 ### Week 2
 1. 5 "How might we?" questions
