@@ -8,6 +8,10 @@
 
 ### Week 3 & 4
 1. UML Diagrams
+ a. Use case diagrams
+ b. Activity Diagrams
+ c. Class diagrams
+ d. Collaborative Diagrams
 2. Sequence digrams (optional, but bonus marks)
 
 # General Notes
