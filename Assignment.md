@@ -1,5 +1,5 @@
 # Assignment 1 - Analysis, Planning, Architecture, & Design
-### Tut 07 Juan 12:00pm
+## Tut 07 Juan 12:00pm
 
 Oliver Sarker (13636838)\
 Leon Salsiccia (13550494)\
