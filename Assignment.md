@@ -7,10 +7,15 @@ Olivia Pham (13634124)\
 Sam Stephens ()
 
 ### Project Objectives and the Problem
-* Empathy Map
-* POV Statements
+#### Empathy Map
+#### POV Statements
+* As a Relationship Manager, I need to be matched with potential customers to best address their needs and interests.
 
 ### Stakeholders
+* Inbound Customers
+* Outbound Customers
+* Relationship Manager
+* Call Management Centre
 
 ### Design Approach (200-300 words)
 
