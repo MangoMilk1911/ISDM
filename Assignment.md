@@ -12,10 +12,10 @@ Sam Stephens ()
 * As a Relationship Manager, I need to be matched with potential customers to best address their needs and interests.
 
 ### Stakeholders
-* Inbound Customers
-* Outbound Customers
-* Relationship Manager
-* Call Management Centre
+* Inbound Call Customer
+* Outbound Call Customer
+* Relationship Manager (RM)
+* Call Management Centre (CMC)
 
 ### Design Approach (200-300 words)
 
