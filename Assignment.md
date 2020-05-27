@@ -7,11 +7,8 @@ Leon Salsiccia (13550494)\
 Olivia Pham (13634124)\
 Sam Stephens (13027216)
 
-## Project Objectives
-
-
 ## Problem Definition
-
+## Project Objectives
 
 ## Stakeholders
 1. Inbound Call Customer
