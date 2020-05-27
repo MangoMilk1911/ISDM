@@ -52,7 +52,10 @@ Following this we developed 'How might we?" (HMW) questions. These questions are
 We then listed our assumptions that were not explicitly stated in the case study:
 
 #### Assumptions
-* The user profile is created via a website and the user provides their profile id during the call to identify them.
+* The user profile is created with a Profiler Tool via a website and the user provides their profile id during the call to identify them.
+* The customer score from 1-10 is calculated based on repeat purchases and postcode.
+* Outbound customers are contacted based on their score during peak travelling seasons.
+* The RM skill score is given from 1-10.
 * The travel company has a great need to improve its systems.
 * Not all inbound customers will have profiles.
 * Customers are not willing to wait long periods.
