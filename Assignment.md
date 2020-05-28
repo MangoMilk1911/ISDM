@@ -11,11 +11,11 @@ Sam Stephens (13027216)
 ## Project Objectives
 
 ## Stakeholders
-1. Inbound Call Customer
-2. Outbound Call Customer
-3. Relationship Manager (RM)
-4. Call Management Centre (CMC)
-5. Travel Company
+1. **Inbound Call Customer:** Customers calling the travel company to purchase or get information about a travel package
+2. **Outbound Call Customer:** Potential customers called by the travel company
+3. **Relationship Manager (RM):** Employees who talk to to customers over the phone
+4. **Call Management Centre (CMC):** A department within the travel company that manages both inbound and outbound calls
+5. **Travel Company:** The major travel company who maintains the call management centre
 
 ## Design Thinking
 ### Empathy Map
@@ -68,6 +68,14 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 2. As an Outbound Customer, I want to speak to someone who knows what they're talking about so my time isn't wasted.
 3. As an inbound customer, I want to receive quick and sounds advice/options on travel options so that I can make an informed decision on the travel options.
 5. As a Relationship Manager, I want to be able to view customers quickly and with ease so I can deliver high quality service.
+6. As an Inbound Customer, I want to be directed to a employee quickly so that I can get information or purchase a product quickly.
+7. As an Inbound Customer, I want to be able to provide my ID so I can be served based off my previous purchases and interests. (Assumption for this needed?)
+8. As a Relationship Manager, I want a list of potential customers to be generated for me so that I can efficiently contact potential customers.
+9. As a Relationship Manager, I want the list of potential customers to be generated based off my profile and knowledge so that I can be more helpful.
+10. As a Relationship Manager, I want to be able to quickly view important information about a customer so that I can easily access information related to the specific customer.
+11. As a Relationship Manager, I want a dialouge script to be automatically generated so that I can improve easily access necessary information regarding the customers inquiry.
+12. As a Relationship Manager, I want to be connected to customers who are more likely to purchase so that I can make more sales.
+13. As a Outbound Customer, I want to be able to opt out of getting calls from the Travel Company so that I do not get spammed.
 
 ### Scrum Reflection
 
