@@ -18,7 +18,7 @@ Sam Stephens (13027216)
 5. **Travel Company:** The major travel company who maintains the call management centre
 
 ## Design Thinking
-### Empathy Map
+### Empathy Maps
 **Inbound Call Customer**
 <img src="Empathy Maps/Empathy Map - Inbound Customer.png" width="100%">
 **Outbound Call Customer**
@@ -80,10 +80,12 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 ### Scrum Reflection
 
 ## RUP Models
-* Use Case Diagram
-* Activity Diagram
-* Class Diagram
-* Collaborative Diagram
+**Use Case Diagram**
+**Activity Diagram**
+<img src="Diagrams/Inbound Activity Diagram FINAL.png" width="100%">
+<img src="Diagrams/Outbound Activity Diagram FINAL.png" width="100%">
+**Class Diagram**
+**Collaborative Diagram**
 
 ## Evaluation (Competitive Advantage)
 
