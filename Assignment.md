@@ -81,7 +81,7 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 
 ## RUP Models
 * Use Case Diagram
-* Activity Diagram
+* Activity Diagram\
 **Inbound Customer Activity Diagram**
 <img src="Diagrams/Inbound Activity Diagram FINAL.png" width="100%">
 **Outbound Customer Activity Diagram**
