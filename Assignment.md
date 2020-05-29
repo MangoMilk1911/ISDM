@@ -80,12 +80,14 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 ### Scrum Reflection
 
 ## RUP Models
-**Use Case Diagram**
-**Activity Diagram**
+*Use Case Diagram
+*Activity Diagram
+**Inbound Customer Activity Diagram**
 <img src="Diagrams/Inbound Activity Diagram FINAL.png" width="100%">
+**Outbound Customer Activity Diagram**
 <img src="Diagrams/Outbound Activity Diagram FINAL.png" width="100%">
-**Class Diagram**
-**Collaborative Diagram**
+*Class Diagram
+*Collaborative Diagram
 
 ## Evaluation (Competitive Advantage)
 
