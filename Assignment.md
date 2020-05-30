@@ -52,12 +52,13 @@ We then listed our assumptions that were not explicitly stated in the case study
 * The user profile is created with a Profiler Tool via a website and the user provides their profile id during the call to identify them.
 * The customer score from 1-10 is calculated based on repeat purchases and postcode.
 * Outbound customers are contacted based on their score during peak travelling seasons.
-* The RM skill score is given from 1-10.
 * The travel company has a great need to improve its systems.
 * Not all inbound customers will have profiles.
 * Customers are not willing to wait long periods.
+* The Inbound Call Router  is the same as the Automatic Call Distributor
 * All inbound calls are atleast partially filtered by the system.
 * All outbound calls performed by RM's are taken from their target list.
+* The Interactive Voice Response will redirect the customer to the Automatic Call Distributer once an appropriate Relationship Manager is available
 
 Applying the initial stages of Design Thinking to this project has allowed us to better understand the project scope, our design objectives and empathise with our stakeholders' needs and wants. Design Thinking stages 1 and 2 have set a foundation for us to proceed with the prototyping and modelling stage of our project. Understanding our objectives has also helped us create and prioritise our backlog which is managed using *Issues* on GitHub (See Backlog).
 
