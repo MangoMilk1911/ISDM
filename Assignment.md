@@ -88,6 +88,8 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 <img src="Diagrams/Outbound Activity Diagram v3.png" width="100%">
 
 ### Class Diagram
+A class diagram was created to illustrate the proposed system's classes including their properties, functionalities and relationships. The class diagram below is a combination of the proposed information system along with the base system which it was built upon. We have colour coded the new aspects of the system blue, making it easy to determine new functionality that was added by the information system.
+<img src="Diagrams/Class Diagram FINAL.png" width="100%">
 
 ### Collaborative Diagram
 
