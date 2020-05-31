@@ -69,11 +69,13 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 
 ## Agile Development Methodology
 ### SCRUM Reflection
-SCRUM is an agile framework for developing solutions in iterations. We applied the SCRUM framework throughout this project in order to breakdown our tasks into smaller, more managable fragments which we could track. This ensured the development of the project went smoothly and was successful.
-
-The SCRUM method involves dividing up and working on multiple smaller tasks simultaneously in rapid succession, referred to as `Sprints`. We would identify these Sprint activities and assign them to group members. After a Sprint, the group would communicate back any pain points the faced while working on their tasks in what is known as a `Sprint Retrospective`. This allowed for frequent communication and collaboration amongst the team. These meetings were held bi-weekly; one on tuesday and another on friday. Within these meetings, feedback was shared and new work was assigned to each member.
-
-Github was also used to enable our SCRUM Methodologies. We used Githubs `Projects` feature to create and maintain a Kanban board in order to track the progression of work completed. We created a Sprint backlog, consisting of the tasks required for the reports completion, using Githubs `Issues` feature. This also allowed us to assign tasks to each other and comment on each Sprint backlog item.
+* Sprints
+* SCRUM cycle
+* bi-weekly meets every tuesday and friday
+* Incremetally work on tasks in order to copmlete the report
+* Kanban board (Sprint Backlog)
+* Highlights progression throughout the report
+* Assign tasks using github issues
 
 ### Backlog
 | US | As a                 | I want to                                                             | So that I                                                        | Priority |
@@ -101,6 +103,9 @@ Github was also used to enable our SCRUM Methodologies. We used Githubs `Project
 ### Use Case Diagram
 
 ### Activity Diagram
+The activity diagrams were created to model the process of creating a user profile in the perspective of the customer and relationship manager and the process of call rerouting for inbound and outbound customers. The activity diagrams show the dynamic workflow of sequential and concurrent activities within the system.
+
+Creating the activity diagrams involved making several adjustments and additions as the group needed to confirm all the aspects of the system that needed to be modelled. However after consulting with the group and tutor, we created our final models which were consistent with the project scope as well as succinct and easy to read.
 <img src="Diagrams/Activity Diagram Profiling v2.png" width="100%">
 <img src="Diagrams/Inbound Activity Diagram v5.png" width="100%">
 <img src="Diagrams/Outbound Activity Diagram v5.png" width="100%">
