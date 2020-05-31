@@ -80,15 +80,15 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 |  6 | Outbound Customer    | only receive calls about packages I would be interested in            | don't have my time wasted                                   |  Medium  |
 |  7 | Outbound Customer    | be able to opt out of getting calls                                   | don't get spam calls                                        |    Low   |
 |  8 | Outbound Customer    | be recommended packages based off my interests                        | find new places to go on holiday                            |   High   |
-|  9 | Relationship Manager | be matched with potential customers based on my skills                | best address their needs and interests                      |   High   |
+|  9 | Relationship Manager | be matched with potential customers based on my skills                | can best address their needs and interests                      |   High   |
 | 10 | Relationship Manager | be able to view customers details quickly                             | have the necessary information when selling a package       |    Low   |
-| 11 | Relationship Manager | be able to contact potential customers according to my knowledge      | sell holiday packages more efficiently                      |  Medium  |
+| 11 | Relationship Manager | be able to contact potential customers according to my knowledge      | can sell holiday packages more efficiently                      |  Medium  |
 | 12 | Relationship Manager | have a dialogue script generated per call                             | easily provide the necessary information to the customer    |  Medium  |
 | 13 | Relationship Manager | be connected to customers more likely to purchase                     | don't waste time on customers who won't purchase            |   High   |
-| 14 | Call Centre Manager  | ensure the system uses AI to interact with customers                  | more easily manage inbound call performance                 |    Low   |
+| 14 | Call Centre Manager  | ensure the system uses AI to interact with customers                  | can more easily manage inbound call performance                 |    Low   |
 | 15 | Call Centre Manager  | ensure the rate of calls is manageable                                | ensure RM's aren't over worked                              |  Medium  |
 | 16 | Travel Company       | retarget existing customers with new packages                         | make more sales                                             |   High   |
-| 17 | Travel Company       | target potential customers with offers that would best appeal to them | make more sales                                             |   High   |
+| 17 | Travel Company       | target potential customers with offers that would best appeal to them | can make more sales                                             |   High   |
 | 18 | Travel Company       | ensure our most loyal customers to be prioritised and served first    | can uphold a higher customer reputation                     |  Medium  |
 
 ### Scrum Reflection
