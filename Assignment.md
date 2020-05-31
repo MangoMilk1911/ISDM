@@ -97,9 +97,9 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 ### Use Case Diagram
 
 ### Activity Diagram
-<img src="Diagrams/Activity Diagram Profiling.png" width="100%">
-<img src="Diagrams/Inbound Activity Diagram v4.png" width="100%">
-<img src="Diagrams/Outbound Activity Diagram v3.png" width="100%">
+<img src="Diagrams/Activity Diagram Profiling v2.png" width="100%">
+<img src="Diagrams/Inbound Activity Diagram v5.png" width="100%">
+<img src="Diagrams/Outbound Activity Diagram v5.png" width="100%">
 
 ### Class Diagram
 A class diagram was created to illustrate the proposed system's classes including their properties, functionalities and relationships. The class diagram below is a combination of the proposed information system along with the base system which it was built upon. We have colour coded the new aspects of the system blue, making it easy to determine new functionality that was added by the information system.
@@ -112,7 +112,21 @@ The class diagram undertook multiple iterations before we were satisfied with th
 
 ## Project Evaluation
 ### Competitive Advantage
+* Automatic Rerouting
+* Better Call flow
+* Retargeting existing customers with suggested packages
+* Targeting potential customers
+* All the above ultimately lead to more sales
+* Improved customer relationships and experience
+* Company resources
+* Efficient workflow for RMs
+* Lower wait times/less amount of redirects for customer
+* AI IVR lessens the load on the CMC
+* These lead to less spent 
+* Self-sufficient (uses the IVR when too many calls)
+* Extendability in the future since there is more information available
 
 ### Possible Issues
-
-
+* Insufficient management
+* Funding, time, 
+* Learning curve. Training costs for new system
