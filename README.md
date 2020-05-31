@@ -123,7 +123,7 @@ The collaborative diagram was originally a single illustration, however, due to 
 <img src="Diagrams/Inbound Collaborative Diagram FINAL.png" width="100%">
 
 #### Outbound
-<img src="Diagrams/Outbound Collaborative FINAL.png" width="100%">
+<img src="Diagrams/Outbound Collaborative Diagram FINAL.png" width="100%">
 
 ## Project Evaluation
 ### Competitive Advantage
