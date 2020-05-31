@@ -103,9 +103,9 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 ### Use Case Diagram
 
 ### Activity Diagram
-<img src="Diagrams/Activity Diagram Profiling v2.png" width="100%">
-<img src="Diagrams/Inbound Activity Diagram v5.png" width="100%">
-<img src="Diagrams/Outbound Activity Diagram v5.png" width="100%">
+<img src="Diagrams/Activity Diagram Profiling FINAL.png" width="100%">
+<img src="Diagrams/Inbound Activity Diagram FINAL.png" width="100%">
+<img src="Diagrams/Outbound Activity Diagram FINAL.png" width="100%">
 
 ### Class Diagram
 A class diagram was created to illustrate the proposed system's classes including their properties, functionalities and relationships. The class diagram below is a combination of the proposed information system along with the base system which it was built upon. We have colour coded the new aspects of the system blue, making it easy to determine new functionality that was added by the information system.
@@ -115,6 +115,9 @@ The class diagram undertook multiple iterations before we were satisfied with th
 <img src="Diagrams/Class Diagram FINAL.png" width="100%">
 
 ### Collaborative Diagram
+A collaborative diagram is a visual representation to illustrate the interaction between objects within a given use case. The diagram highlights the structure of interactions.
+
+The collaborative diagram was originally a single illustration, however, due to the structure of the Travel Compnany and how calls are distributed between differing customers, the diagram was divided into two diagrams, Inbound and Outbound customers. Each diagram below shows the structure of a given call and transaction that occurs between a Relationship Manager and a Customer.
 
 ## Project Evaluation
 ### Competitive Advantage
