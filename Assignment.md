@@ -68,6 +68,14 @@ We then listed our assumptions that were not explicitly stated in the case study
 Applying the initial stages of Design Thinking to this project has allowed us to better understand the project scope, our design objectives and empathise with our stakeholders' needs and wants. Design Thinking stages 1 and 2 have set a foundation for us to proceed with the prototyping and modelling stage of our project. Understanding our objectives has helped us to create and prioritise our backlog, which is managed using *Issues* on GitHub (See Backlog section below).
 
 ## Agile Development Methodology
+### SCRUM Reflection
+* Sprints
+* SCRUM cycle
+* bi-weekly meets every tuesday and friday
+* Incremetally work on tasks in order to copmlete the report
+* Kanban board (Sprint Backlog)
+* Highlights progression throughout the report
+* Assign tasks using github issues
 
 ### Backlog
 | US | As a                 | I want to                                                             | So that I                                                        | Priority |
@@ -90,8 +98,6 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 | 16 | Travel Company       | retarget existing customers with new packages                         | make more sales                                             |   High   |
 | 17 | Travel Company       | target potential customers with offers that would best appeal to them | can make more sales                                             |   High   |
 | 18 | Travel Company       | ensure our most loyal customers to be prioritised and served first    | can uphold a higher customer reputation                     |  Medium  |
-
-### Scrum Reflection
 
 ## RUP Models
 ### Use Case Diagram
@@ -127,6 +133,9 @@ The class diagram undertook multiple iterations before we were satisfied with th
 * Extendability in the future since there is more information available
 
 ### Possible Issues
+* Changing requirements
+* Increased project costs
+* Delays, constraints
 * Insufficient management
 * Funding, time, 
 * Learning curve. Training costs for new system
