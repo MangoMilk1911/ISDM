@@ -112,7 +112,21 @@ The class diagram undertook multiple iterations before we were satisfied with th
 
 ## Project Evaluation
 ### Competitive Advantage
+* Automatic Rerouting
+* Better Call flow
+* Retargeting existing customers with suggested packages
+* Targeting potential customers
+* All the above ultimately lead to more sales
+* Improved customer relationships and experience
+* Company resources
+* Efficient workflow for RMs
+* Lower wait times/less amount of redirects for customer
+* AI IVR lessens the load on the CMC
+* These lead to less spent 
+* Self-sufficient (uses the IVR when too many calls)
+* Extendability in the future since there is more information available
 
 ### Possible Issues
-
-
+* Insufficient management
+* Funding, time, 
+* Learning curve. Training costs for new system
