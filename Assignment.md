@@ -7,8 +7,12 @@ Leon Salsiccia (13550494)\
 Olivia Pham (13634124)\
 Sam Stephens (13027216)
 
-## Problem Definition
+
 ## Project Objectives
+The goal of this project is to address the existings problems surrounding the current operations of the Call Management Center, and suggest an improved solution in the form of a new information system. The suggested solution will further enable the Call Management Center in its ability to manage customer enquiries and calls, and Relationship Managers in making holiday package sales. Additionally, the new system will allow the travel company to target potential customers or retarget existings customers as a result of the improved information processes.
+
+## Problem Definition
+The Call Management Centers current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unnacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
 
 ## Stakeholders
 1. **Inbound Call Customer:** Customers calling the travel company to purchase or get information about a travel package
@@ -49,18 +53,19 @@ Following this we developed 'How might we?" (HMW) questions. These questions are
 We then listed our assumptions that were not explicitly stated in the case study:
 
 #### Assumptions
-* The user profile is created with a Profiler Tool via a website and the user provides their profile id during the call to identify them.
-* The customer score from 1-10 is calculated based on repeat purchases and postcode.
-* Outbound customers are contacted based on their score during peak travelling seasons.
-* The travel company has a great need to improve its systems.
-* Not all inbound customers will have profiles.
-* Customers are not willing to wait long periods.
-* The Inbound Call Router  is the same as the Automatic Call Distributor
-* All inbound calls are atleast partially filtered by the system.
-* All outbound calls performed by RM's are taken from their target list.
-* The Interactive Voice Response will redirect the customer to the Automatic Call Distributer once an appropriate Relationship Manager is available
+* The user profile is created with a Profiler Tool via the travel company website.
+* The user provides their profile ID during the call to identify them.
+* Outbound Customers are contacted based on RM Skill matrices and product knowledge.
+* Outbound Customers have an existing profile with the Travel Company.
+* A booking can only include a single holiday package.
+* Inbound calls from new customers without a profile will require them to declare the intent of their call via speaking to an AI assistant. Once intent is known, the new customer can be routed to an apprioate RM.
+* All inbound calls are filtered by the new system.
+* All outbound calls performed by RMs are taken from their target list.
+* The Interactive Voice Response unit will redirect the customer once an appropriate Relationship Manager is available.
+* The target customer list is generated and used in the backend. RMs simply initiate the outbound call which is dialed automatically by the system according to the target list.
+* Relationship Managers will book the holiday package on behalf of the customer.
 
-Applying the initial stages of Design Thinking to this project has allowed us to better understand the project scope, our design objectives and empathise with our stakeholders' needs and wants. Design Thinking stages 1 and 2 have set a foundation for us to proceed with the prototyping and modelling stage of our project. Understanding our objectives has also helped us create and prioritise our backlog which is managed using *Issues* on GitHub (See Backlog).
+Applying the initial stages of Design Thinking to this project has allowed us to better understand the project scope, our design objectives and empathise with our stakeholders' needs and wants. Design Thinking stages 1 and 2 have set a foundation for us to proceed with the prototyping and modelling stage of our project. Understanding our objectives has helped us to create and prioritise our backlog, which is managed using *Issues* on GitHub (See Backlog section below).
 
 ## Agile Development Methodology
 
@@ -90,6 +95,7 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 
 ## RUP Models
 ### Use Case Diagram
+
 ### Activity Diagram
 <img src="Diagrams/Activity Diagram Profiling.png" width="100%">
 <img src="Diagrams/Inbound Activity Diagram v4.png" width="100%">
@@ -97,9 +103,16 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 
 ### Class Diagram
 A class diagram was created to illustrate the proposed system's classes including their properties, functionalities and relationships. The class diagram below is a combination of the proposed information system along with the base system which it was built upon. We have colour coded the new aspects of the system blue, making it easy to determine new functionality that was added by the information system.
+
+The class diagram undertook multiple iterations before we were satisfied with the result. This was due to the group being unsure what aspects of the system needed to be modelled. We also weren't sure what should be modelled as a class or as a method. We decided to model the new systems functionality across a combination of new classes and new methods in order to create a model we thought provided excellent depth while maintaining legibility.
+
 <img src="Diagrams/Class Diagram FINAL.png" width="100%">
 
 ### Collaborative Diagram
 
-## Evaluation (Competitive Advantage)
+## Project Evaluation
+### Competitive Advantage
+
+### Possible Issues
+
 
