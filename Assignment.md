@@ -70,7 +70,7 @@ Applying the initial stages of Design Thinking to this project has allowed us to
 ## Agile Development Methodology
 
 ### Backlog
-| ID | As a                 | I want to                                                             | So I                                                        | Priority |
+| US | As a                 | I want to                                                             | So that I                                                        | Priority |
 |:--:|----------------------|-----------------------------------------------------------------------|-------------------------------------------------------------|:--------:|
 |  1 | Inbound Customer     | be able to quickly purchase a holiday package                         | can go on holiday                                           |   High   |
 |  2 | Inbound Customer     | receive quick and sound advice/options on travel options              | can make an informed decision on the travel options         |  Medium  |
