@@ -31,7 +31,7 @@ The Call Management Centers current operations are impacted due to the high numb
 <img src="Empathy Maps/Empathy Map - Relationship Manager.png" width="100%">
 
 ### POV Statements
-1. Relationship Managers need to be routed to potential customers based on skill levels and best match so the number of calls RMs have to take is reduced. (Might need rewording)
+1. Relationship Managers need to be routed to potential customers based on skill levels and best match so the number of calls RMs have to take is reduced.
 2. Outbound customers need to be matched with a Relationship Manager who is best fit to discuss the proposed product for the customer.
 3. Inbound customers need to be matched with Relationship Managers according to their inquiry so they can recieve help and purchase a travel package more efficiently.
 
