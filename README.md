@@ -99,8 +99,14 @@ Github was also used to enable our SCRUM Methodologies. We used Githubs `Project
 
 ## RUP Models
 ### Use Case Diagram
+The utilisation of use case diagrams enables for a simplified view of users' interaction with the system.
+Two seperate use case diagrams were created, one for each type of call situation. The inbound diagram depicts how a customer who is calling the travel company will interact with the system, and the respective relationship manager. Alternatively, the outbound diagram details the occurances of when the travel company will make an outward call to customers or potential customers.
 
+Many iterations of these diagrams were created. Predominantly for the inbound caller, this is because it took multiple attempts and edits before we agreed that the diagram gave sufficient detail. Whilst the outbound caller diagram proved more straight forward and simple.
+### Inbound Use Case Diagram
 <img src="Diagrams/Inbound Use Case Diagram FINAL.png" width ="100%">
+
+### Outbound Use Case Diagram
 <img src="Diagrams/Outbound Use Case Diagram FINAL.png" width ="100%">
 ### Activity Diagram
 <img src="Diagrams/Activity Diagram Profiling FINAL.png" width="100%">
