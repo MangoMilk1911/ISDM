@@ -127,24 +127,13 @@ The collaborative diagram was originally a single illustration, however, due to 
 
 ## Project Evaluation
 ### Competitive Advantage
-* Automatic Rerouting
-* Better Call flow
-* Retargeting existing customers with suggested packages
-* Targeting potential customers
-* All the above ultimately lead to more sales
-* Improved customer relationships and experience
-* Company resources
-* Efficient workflow for RMs
-* Lower wait times/less amount of redirects for customer
-* AI IVR lessens the load on the CMC
-* These lead to less spent 
-* Self-sufficient (uses the IVR when too many calls)
-* Extendability in the future since there is more information available
+
+The new system proposed to the Travel Company will improve the efficiency of the transaction that occurs between a Customer and Relationship Manager. By improving on the automatic rerouting system of inbound custoemrs, the throughput of customers can be maximised and simultaneously relieve company resources and Relationship Managers workloads, uiltimately leading to a greater number of customers and therefore sales and maximise revenue for the Travel Company. By streamlining the process of rerirecting customers, customers experience a shorter wait time with the automatic rerouting system. On a similar note, the automatic rerouting system is self-sufficient and thus is scalable for any number of incoming calls regardless of how many Relationship Managers are available.
+  
+Moreover, through the Outbound calling system, by targetting customers, there is an improved Customer/Relationship Manager experience, further increasing the potential of the customer purchasing a package.
 
 ### Possible Issues
-* Changing requirements
-* Increased project costs
-* Delays, constraints
-* Insufficient management
-* Funding, time, 
-* Learning curve. Training costs for new system
+
+Although there are a many advantages that come with an improved transaction between Customers and Relationship Managers, the Travel Company may suffer from a few short term set backs during implementation of the improved system itself. During any project there will be an increse in financial costs that will hinder wider aspects of the Travel Company. Moreover, as a project progresses, there may be a change in requirements causing delays, inefficient allocation of labour, a shift in resource allocation and a further increase in financial costs. Another issues could be resistance from Relationship Managers, whom may be unwilling for change and therefore require training costs to train the Relationship Managers to effectivly utilise the new system.
+
+A more long term issue could be complete misallocation of resrouces during or after the project could lead to project failure leading to tarnishing of brand reputation or possible future prospects for the business.  
