@@ -107,7 +107,11 @@ Many iterations of these diagrams were created. Predominantly for the inbound ca
 
 ### Outbound Use Case Diagram
 <img src="Diagrams/Outbound Use Case Diagram FINAL.png" width ="100%">
+
 ### Activity Diagram
+The activity diagrams were created to model the process of creating a user profile in the perspective of the customer and relationship manager and the process of call rerouting for inbound and outbound customers. The activity diagrams show the dynamic workflow of sequential and concurrent activities within the system.
+
+Creating the activity diagrams involved making several adjustments and additions as the group needed to confirm all the aspects of the system that needed to be modelled. However after consulting with the group and tutor, we created our final models which were consistent with the project scope as well as succinct and easy to read.
 <img src="Diagrams/Activity Diagram Profiling FINAL.png" width="100%">
 <img src="Diagrams/Inbound Activity Diagram FINAL.png" width="100%">
 <img src="Diagrams/Outbound Activity Diagram FINAL.png" width="100%">
