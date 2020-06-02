@@ -18,7 +18,7 @@ The goal of this project is to address the existing problems surrounding the cur
 2. **Outbound Call Customer:** Potential customers called by the travel company
 3. **Relationship Manager (RM):** Employees who talk to customers over the phone
 4. **Call Centre Manager:** Manager of the department within the travel company that handles both inbound and outbound calls
-5. **Travel Company:** The major travel company who maintains the call management centre
+5. **Travel Company:** The major travel company who maintains the Call Management Centre
 
 ## Design Thinking
 ### Empathy Maps
@@ -37,7 +37,7 @@ The goal of this project is to address the existing problems surrounding the cur
 ### Design Approach Reflection
 This development project began with reading over the assigned case study and applying to it the first stage of Design Thinking: Empathise. From the discussion topic we defined the stakeholders involved with and affected by the implementation of a travel company call routing system. 
 
-We created empathy maps for the major stakeholders who we believed would be most affected and have the most perspective on the changed system. Our empathy maps were created for inbound and outbound customers and the call management centre Relationship Managers. Alongside our empathy maps we created corresponding POV (point of view) statements which defined the stakeholders' needs and perspectives in relation to the call system. 
+We created empathy maps for the major stakeholders who we believed would be most affected and have the most perspective on the changed system. Our empathy maps were created for inbound and outbound customers and the Call Management Centre Relationship Managers. Alongside our empathy maps we created corresponding POV (point of view) statements which defined the stakeholders' needs and perspectives in relation to the call system. 
 
 From the empathy maps and POV statements, we've been able to define the problem as part of stage 2 of the Design Thinking process. We've determined that for customers, it is important to decrease wait time for calls and for them to be matched with an RM suited to their needs and questions. For RMs, it is important to be well matched with customers to best address their needs.
 
