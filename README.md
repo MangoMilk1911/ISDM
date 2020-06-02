@@ -8,15 +8,15 @@ Olivia Pham (13634124)\
 Sam Stephens (13027216)
 
 ## Problem Definition
-The Call Management Centers current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unnacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
+The Call Management Centre current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
 
 ## Project Objectives
-The goal of this project is to address the existings problems surrounding the current operations of the Call Management Center, and suggest an improved solution in the form of a new information system. The suggested solution will further enable the Call Management Center in its ability to manage customer enquiries and calls, and Relationship Managers in making holiday package sales. Additionally, the new system will allow the travel company to target potential customers or retarget existings customers as a result of the improved information processes.
+The goal of this project is to address the existing problems surrounding the current operations of the Call Management Centre, and suggest an improved solution in the form of a new information system. The suggested solution will further enable the Call Management Centre in its ability to manage customer enquiries and calls, and Relationship Managers in making holiday package sales. Additionally, the new system will allow the travel company to target potential customers or retarget existing customers as a result of the improved information processes.
 
 ## Stakeholders
 1. **Inbound Call Customer:** Customers calling the travel company to purchase or get information about a travel package
 2. **Outbound Call Customer:** Potential customers called by the travel company
-3. **Relationship Manager (RM):** Employees who talk to to customers over the phone
+3. **Relationship Manager (RM):** Employees who talk to customers over the phone
 4. **Call Centre Manager:** Manager of the department within the travel company that handles both inbound and outbound calls
 5. **Travel Company:** The major travel company who maintains the call management centre
 
@@ -32,14 +32,14 @@ The goal of this project is to address the existings problems surrounding the cu
 ### POV Statements
 1. Relationship Managers need to be routed to potential customers based on skill levels and best match so the number of calls RMs have to take is reduced.
 2. Outbound customers need to be matched with a Relationship Manager who is best fit to discuss the proposed product for the customer.
-3. Inbound customers need to be matched with Relationship Managers according to their inquiry so they can recieve help and purchase a travel package more efficiently.
+3. Inbound customers need to be matched with Relationship Managers according to their inquiry so they can receive help and purchase a travel package more efficiently.
 
 ### Design Approach Reflection
-This development project began with reading over the assigned case study and applying to it the first stage of Design Thinking: Empathise. From the disucssion topic we defined the stakeholders involved with and affected by the implementation of a travel company call routing system. 
+This development project began with reading over the assigned case study and applying to it the first stage of Design Thinking: Empathise. From the discussion topic we defined the stakeholders involved with and affected by the implementation of a travel company call routing system. 
 
-We created empathy maps for the major stakeholders who we believed would be most affected and have the most perspective on the changed system. Our empathy maps were created for inbound and outbound customers and the call management centre Relationship Managers. Alongisde our empathy maps we created corresponding POV (point of view) statements which defined the stakeholders' needs and perspectives in relation to the call system. 
+We created empathy maps for the major stakeholders who we believed would be most affected and have the most perspective on the changed system. Our empathy maps were created for inbound and outbound customers and the call management centre Relationship Managers. Alongside our empathy maps we created corresponding POV (point of view) statements which defined the stakeholders' needs and perspectives in relation to the call system. 
 
-From the empathy maps and POV statements, we've been able to define the problem as part of stage 2 of the Design Thinkng process. We've determined that for customers, it is important to decrease wait time for calls and for them to be matched with an RM suited to their needs and questions. For RMs, it is important to be well matched with customers to best address their needs.
+From the empathy maps and POV statements, we've been able to define the problem as part of stage 2 of the Design Thinking process. We've determined that for customers, it is important to decrease wait time for calls and for them to be matched with an RM suited to their needs and questions. For RMs, it is important to be well matched with customers to best address their needs.
 
 Following this we developed 'How might we?" (HMW) questions. These questions are shaped from our POV statements and frame our brainstorming and ideation phase:
 
@@ -57,22 +57,22 @@ We then listed our assumptions that were not explicitly stated in the case study
 * Outbound Customers are contacted based on RM Skill matrices and product knowledge.
 * Outbound Customers have an existing profile with the Travel Company.
 * A booking can only include a single holiday package.
-* Inbound calls from new customers without a profile will require them to declare the intent of their call via speaking to an AI assistant. Once intent is known, the new customer can be routed to an apprioate RM.
+* Inbound calls from new customers without a profile will require them to declare the intent of their call via speaking to an AI assistant. Once intent is known, the new customer can be routed to an appropriate RM.
 * All inbound calls are filtered by the new system.
 * All outbound calls performed by RMs are taken from their target list.
 * The Interactive Voice Response unit will redirect the customer once an appropriate Relationship Manager is available.
-* The target customer list is generated and used in the backend. RMs simply initiate the outbound call which is dialed automatically by the system according to the target list.
+* The target customer list is generated and used in the backend. RMs simply initiate the outbound call which is dialled automatically by the system according to the target list.
 * Relationship Managers will book the holiday package on behalf of the customer.
 
 Applying the initial stages of Design Thinking to this project has allowed us to better understand the project scope, our design objectives and empathise with our stakeholders' needs and wants. Design Thinking stages 1 and 2 have set a foundation for us to proceed with the prototyping and modelling stage of our project. Understanding our objectives has helped us to create and prioritise our backlog, which is managed using *Issues* on GitHub (See Backlog section below).
 
 ## Agile Development Methodology
 ### SCRUM Reflection
-SCRUM is an agile framework for developing solutions in iterations. We applied the SCRUM framework throughout this project in order to breakdown our tasks into smaller, more managable fragments which we could track. This ensured the development of the project went smoothly and was successful.
+SCRUM is an agile framework for developing solutions in iterations. We applied the SCRUM framework throughout this project in order to breakdown our tasks into smaller, more manageable fragments which we could track. This ensured the development of the project went smoothly and was successful.
 
-The SCRUM method involves dividing up and working on multiple smaller tasks simultaneously in rapid succession, referred to as `Sprints`. We would identify these Sprint activities and assign them to group members. After a Sprint, the group would communicate back any pain points the faced while working on their tasks in what is known as a `Sprint Retrospective`. This allowed for frequent communication and collaboration amongst the team. These meetings were held bi-weekly; one on tuesday and another on friday. Within these meetings, feedback was shared and new work was assigned to each member.
+The SCRUM method involves dividing up and working on multiple smaller tasks simultaneously in rapid succession, referred to as `Sprints`. We would identify these Sprint activities and assign them to group members. After a Sprint, the group would communicate back any pain points the faced while working on their tasks in what is known as a `Sprint Retrospective`. This allowed for frequent communication and collaboration amongst the team. These meetings were held bi-weekly; one on Tuesday and another on Friday. Within these meetings, feedback was shared and new work was assigned to each member.
 
-Github was also used to enable our SCRUM Methodologies. We used Githubs `Projects` feature to create and maintain a Kanban board in order to track the progression of work completed. We created a Sprint backlog, consisting of the tasks required for the reports completion, using Githubs `Issues` feature. This also allowed us to assign tasks to each other and comment on each Sprint backlog item.
+GitHub was also used to enable our SCRUM Methodologies. We used GitHub `Projects` feature to create and maintain a Kanban board in order to track the progression of work completed. We created a Sprint backlog, consisting of the tasks required for the reports completion, using GitHub `Issues` feature. This also allowed us to assign tasks to each other and comment on each Sprint backlog item.
 
 ### Backlog
 | US | As a                 | I want to                                                             | So that I                                                        | Priority |
@@ -99,7 +99,7 @@ Github was also used to enable our SCRUM Methodologies. We used Githubs `Project
 ## RUP Models
 ### Use Case Diagram
 The utilisation of use case diagrams enables for a simplified view of users' interaction with the system.
-Two seperate use case diagrams were created, one for each type of call situation. The inbound diagram depicts how a customer who is calling the travel company will interact with the system, and the respective relationship manager. Alternatively, the outbound diagram details the occurances of when the travel company will make an outward call to customers or potential customers.
+Two separate use case diagrams were created, one for each type of call situation. The inbound diagram depicts how a customer who is calling the travel company will interact with the system, and the respective relationship manager. Alternatively, the outbound diagram details the occurrences of when the travel company will make an outward call to customers or potential customers.
 
 Many iterations of these diagrams were created. Predominantly for the inbound caller, this is because it took multiple attempts and edits before we agreed that the diagram gave sufficient detail. Whilst the outbound caller diagram proved more straight forward and simple.
 ### Inbound Use Case Diagram
@@ -126,7 +126,7 @@ The class diagram undertook multiple iterations before we were satisfied with th
 ### Collaborative Diagram
 A collaborative diagram is a visual representation to illustrate the interaction between objects within a given use case. The diagram highlights the structure of interactions.
 
-The collaborative diagram was originally a single illustration, however, due to the structure of the Travel Compnany and how calls are distributed between differing customers, the diagram was divided into two diagrams, Inbound and Outbound customers. Each diagram below shows the structure of a given call and transaction that occurs between a Relationship Manager and a Customer.
+The collaborative diagram was originally a single illustration, however, due to the structure of the Travel Company and how calls are distributed between differing customers, the diagram was divided into two diagrams, Inbound and Outbound customers. Each diagram below shows the structure of a given call and transaction that occurs between a Relationship Manager and a Customer.
 
 #### Inbound
 <img src="Diagrams/Inbound Collaborative Diagram FINAL.png" width="100%">
