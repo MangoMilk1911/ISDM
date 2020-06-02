@@ -2,10 +2,10 @@
 
 ## Group
 **Tut 07 Juan 12:00pm** 
-Oliver Sarker (13636838) 
-Leon Salsiccia (13550494) 
-Olivia Pham (13634124) 
-Sam Stephens (13027216)
+Oliver Sarker (13636838)  
+Leon Salsiccia (13550494)  
+Olivia Pham (13634124)  
+Sam Stephens (13027216) 
 
 Link to video presentation: https://youtu.be/3pXtNggtEtE
 
