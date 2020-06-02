@@ -8,7 +8,7 @@ Olivia Pham (13634124)\
 Sam Stephens (13027216)
 
 ## Assignment Coversheet
-<img src="Empathy Maps/ISDM coversheet.png" width="100%">
+<img src="Diagrams/ISDM coversheet.png" width="100%">
 
 ## Problem Definition
 The Call Management Centre current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
