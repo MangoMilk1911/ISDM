@@ -7,12 +7,11 @@ Leon Salsiccia (13550494)\
 Olivia Pham (13634124)\
 Sam Stephens (13027216)
 
+## Problem Definition
+The Call Management Centers current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unnacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
 
 ## Project Objectives
 The goal of this project is to address the existings problems surrounding the current operations of the Call Management Center, and suggest an improved solution in the form of a new information system. The suggested solution will further enable the Call Management Center in its ability to manage customer enquiries and calls, and Relationship Managers in making holiday package sales. Additionally, the new system will allow the travel company to target potential customers or retarget existings customers as a result of the improved information processes.
-
-## Problem Definition
-The Call Management Centers current operations are impacted due to the high number of holiday packages and difficulties in effectively converting customers to make a purchase. These problems include; unnacceptable wait times for customers, Relationship Managers lack of information regarding the customer or their interested holiday package, and inefficiency in redirecting customers to Relationship Managers who are able to help. This has resulted in slow call rates, organisational resource wastage and negative customer relationship with the company. Relationship Managers are not able to fully understand customer intentions resulting in customers being redirected multiple times or simply hanging up.
 
 ## Stakeholders
 1. **Inbound Call Customer:** Customers calling the travel company to purchase or get information about a travel package
